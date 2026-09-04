@@ -108,4 +108,4 @@ SSH into your JetKVM to control or check the service:
 
 ## License
 
-MIT License.
+NONE. And if anyone wants to have this or develop this until the JetKVM developers get a around to integrade this by default, anyone is welcome to it.
