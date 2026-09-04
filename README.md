@@ -1,4 +1,6 @@
 # JetKVM Ethernet-over-USB (CDC-NCM Passthrough)
+This is absolutely everything made by LLM. I just uploaded this "manual" so there is not need to burn tokens recreating this (if anyone needs this at all except me).
+SSH needs to be enabled.
 
 Enable host network access and internet passthrough over the single USB-C cable on your [JetKVM](https://jetkvm.com).
 
